@@ -50,17 +50,9 @@ Before running the producer, ensure the following requirements are met:
 <br>RabbitMQ
 
 
-## Multiple Terminals Screenshots
+##  Screenshots
 
 ![Screenshot of Producer](smoker_producer.png)
 
-
-
-
-
-
-
-
-
-
+![Screenshot of RabbitMQ Admin](admin_panel.png)
 
